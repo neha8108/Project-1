@@ -1,0 +1,53 @@
+
+ul.nav{
+	list-style:none;
+	padding:30px;
+	background:Grey;
+	margin-top:0px;
+
+	
+}
+body{
+	background-image: url("http://www.freeimages.com/premium/data-backup-on-computer-keyboard-background-1769633");
+}
+    li1{
+
+    	margin-left:150px;
+    	font-family:"Arial Black",Gadget,sans-serif;
+
+	}
+	
+	li2{
+		margin-left:150px;
+	}
+
+	li3{
+		margin-left:150px;
+	}
+
+	li4{
+		margin-left:150px;
+	}
+
+
+
+h1{
+	margin-top: 300px;
+	text-align:center;
+	color: Orange;
+
+}		
+hr
+{
+	allign="..";alignment of line:CENTER;
+	margin-left: 400px;
+	margin-right: 400px;
+}
+
+h2
+{
+	font-family:"Lucida Sans Unicode", "Lucida Grande",sans-serif;
+	margin-left: 20px;
+	text-align:center;
+	color: Grey;
+}
